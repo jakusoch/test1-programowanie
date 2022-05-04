@@ -1,6 +1,6 @@
 # commit yoursel to github
 
-#usun mnie albo nie
+#usun mnie albo nie albo tak
 # łańcuch="słowo"
 # długość = len(łańcuch)
 
