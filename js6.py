@@ -9,7 +9,7 @@
 #
 # for litera in łańcuch:
 #     print(litera)
-
+print("Polonez jest de best")
 # print("Podaj imię")
 # łań2 = input()
 # łań3 = "Cześć "
