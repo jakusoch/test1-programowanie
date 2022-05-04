@@ -1,5 +1,6 @@
 # commit yoursel to github
 
+#add somthing now
 
 # łańcuch="słowo"
 # długość = len(łańcuch)
